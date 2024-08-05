@@ -18,7 +18,7 @@ Welcome to the "Sample Store Sales Analysis" project. This Tableau dashboard pro
 - Data comprehension,
 - Transformation,
 - Math and statistical analysis,
-- FFilters,
+- Buttons,
 - Page Navigation,
 - Analytical and Visualization skill
 
@@ -26,7 +26,19 @@ Welcome to the "Sample Store Sales Analysis" project. This Tableau dashboard pro
 The Report comprises three pages :
 1. Region Metrics
 2. Shipping Insights
-3. 
+3. Product performance
+
+You can interact with the report [here] https://public.tableau.com/views/InteractivedashboardofSamplestoresalesdata/InteractiveResgionandStatewiseSalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+![](Region_Wise_Sales_Analysis.png)
+
+ _Features_ : 1. A button image ("Globe button ") is used for navigation, directing you to the "Regional Metrics" page for easy access to sales and profit analysis across regions.
+2. A customized Color Palette highlights state profitability, ranging from loss to profit with fixed colors. This visual aid makes it easy to distinguish states with the least and highest profits .
+
+
+
+
+
 
 
 
